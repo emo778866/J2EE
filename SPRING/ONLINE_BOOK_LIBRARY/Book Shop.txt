@@ -1,0 +1,26 @@
+Online Book Library Application----------------------------------------------------------------------------------------------------------------------------
+
+Your goal is to design and develop an Online Book Library application. This application will be a back-end only application. So no front-end is required. Just creating the REST end-points is enough.
+
+All the REST end-points of this application need to be protected using Spring Security role based authentication. Also use MySQL for the DB.
+
+The application will have the below API / REST end-points:
+
+	●	/user/register:This end-point will register a user with user information: firstName, lastName, email, password, address.
+
+	●	/user/login: This end-point will log in with user email and password and will return a token as response. User email should be present at payload data.
+
+	●	/books/all: This end-point will fetch and show all the books data stored in the database. User must have either “ADMIN” or “CUSTOMER” role to use this API. [DONE]
+
+	●	/books/id/{bookId}: This end-point will find a particular book by “bookId” from the database. User must have either “ADMIN” or “CUSTOMER” role to use this API. [DONE]
+
+	●	/books/author/{authorName}: This end-point will return a particular book by “authorName” from the database. [DONE]
+
+	●	/books/create: This end-point will be used to add new book to the database. User must have “ADMIN” role to use this API. [DONE]
+
+	●	/books/update/{id}: This end-point will be used to update a book’s data that is already saved in the database. User must have “ADMIN” role to use this API. [DONE]
+
+	●	/books/delete/{id}: This end-point will be used to delete a book from the database. User must have “ADMIN” role to use this API. [DONE]
+
+
+N.B: Please read the requirement carefully and create the necessary Java classes for this application according to your understanding.
