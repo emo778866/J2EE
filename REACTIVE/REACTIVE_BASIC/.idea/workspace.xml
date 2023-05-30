@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4518859-afb6-4d8d-bdc8-24b9b97d75c4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="REACTIVE_PROGRAMMING" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q8oWK2K9uTl9IUoS40cPQnUe8y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/MEHEDI-HASAN-EMO/OneDrive/Desktop/REACTIVE_PROGRAMMING",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "92dabd88e40d0c4ebca887692bc390c6",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MEHEDI-HASAN-EMO\OneDrive\Desktop\REACTIVE_PROGRAMMING\src\main\java\com\hasanemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.T5_UpperAndReverse">
+    <configuration name="T1_DuplicateElementsFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hasanemo.practice.T1_DuplicateElementsFromArray" />
+      <module name="REACTIVE_PROGRAMMING.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hasanemo.practice.RotateElements" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T2_RotateElementsOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hasanemo.practice.T2_RotateElementsOfArray" />
+      <module name="REACTIVE_PROGRAMMING.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hasanemo.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T3_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hasanemo.practice.T3_Palindrome" />
+      <module name="REACTIVE_PROGRAMMING.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hasanemo.practice.RotateElements" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T4_CharacterFrequencyOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hasanemo.practice.T4_CharacterFrequencyOfAString" />
+      <module name="REACTIVE_PROGRAMMING.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hasanemo.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T5_UpperAndReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hasanemo.practice.T5_UpperAndReverse" />
+      <module name="REACTIVE_PROGRAMMING.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hasanemo.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactiveProgrammingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="REACTIVE_PROGRAMMING.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hasanemo.ReactiveProgrammingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T5_UpperAndReverse" />
+        <item itemvalue="Application.T4_CharacterFrequencyOfAString" />
+        <item itemvalue="Application.T2_RotateElementsOfArray" />
+        <item itemvalue="Application.T3_Palindrome" />
+        <item itemvalue="Application.T1_DuplicateElementsFromArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4518859-afb6-4d8d-bdc8-24b9b97d75c4" name="Changes" comment="" />
+      <created>1684744604594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684744604594</updated>
+      <workItem from="1684744605981" duration="7880000" />
+      <workItem from="1684806933487" duration="5628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
