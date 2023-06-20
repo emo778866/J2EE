@@ -1,0 +1,16 @@
+.student-card {
+  width: 200px;
+  border: 1px solid #766f6f;
+  border-radius: 4px;
+  padding: 50px;
+  background-color: rgb(217, 232, 232);
+}
+
+.updateButton {
+  background-color: #0a0a0a;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
